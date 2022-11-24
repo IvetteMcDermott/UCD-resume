@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/lechien73/terminal#readme",
   "dependencies": {
+    "@emailjs/browser": "^3.9.1",
     "@googlemaps/markerclusterer": "^2.0.13",
     "node-pty": "^0.10.1",
     "node-static": "^0.7.11",
